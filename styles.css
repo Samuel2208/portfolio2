@@ -23,8 +23,8 @@ header, main{
     border-radius: 50px;
 }
 header{
-    background-color: rgba(red, green, blue, alpha);
-    color: black;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #333;
     padding: 40px;
     border-radius: 50px;
     text-align: center;
@@ -51,8 +51,8 @@ a{
 
 main > a{
     display: block;
-    background-color: white;
-    color:black;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #333;
     padding: 32px;
     margin: 32px;
     border-radius: 32px;
@@ -68,8 +68,8 @@ main > a:hover{
 }
 
 footer > a{
-    background-color:white;
-    color: black;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #333;
 
     padding: 8px;
     margin: 8px;
